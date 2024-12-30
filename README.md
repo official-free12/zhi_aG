@@ -1,0 +1,6 @@
+# 智能量化源码区块链钱包策略机器人量化交易马丁策略对冲各种策略开发
+
+1、接受各种策略开发；<br>2、源码系统，源码仅提供测试学习，不可用于非法途径！<br>3、所售源码仅支持测试，与后期客户实际运营产生的一切法律纠纷无关！<br>系统说明：<br>example.com+uniapp<br>example.com+vue（Elementui）<br>支持pc、H5、移动端APP<br>量化交易区块链策略：<br>1：通过对冲双开套利（双向斩仓）解套，多空两边继续尾单套利，边套利边持续解套做错方向的仓位!<br>2：全自动化交易，不用盯盘，不用盯盘，不用盯盘，机器人7x24小时全自动化交易套利!<br>3：自动暂停补仓功能，只要当天行情波动涨幅跌幅达到5%，机器人自动开启暂停补仓策略8小时，不会无脑补仓!<br>4：高频率交易，7x24小时，多币种，多仓位，全自动化交易，只能U本位永续，手里有闲置的U可以赚U，相当于送你一台不需要开会员，不需要开点卡，不需要充电费的，源源不断的帮你去市场套利产usdt泰达币!<br>功能：单向斩仓：多单斩多单，空单斩空单<br>双向斩仓：多单斩多单，多单斩空单空单斩空单，空单斩多单<br>跨币种斩仓：多单斩空单，多单斩空单空单斩空单，空单斩多单BTC多单可以斩ETH多单BTC多单可以斩ETH空单BTC空单可以斩ETH多单BTC空单可以斩ETH空单<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/RUgOH" style="color: red;">https://mega-file.org/RUgOH</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
